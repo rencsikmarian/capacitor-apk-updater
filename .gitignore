@@ -1,0 +1,25 @@
+# node files
+dist
+node_modules
+
+# macOS files
+.DS_Store
+
+# Based on Android gitignore template
+*.apk
+*.ap_
+*.dex
+*.class
+bin
+gen
+out
+.gradle
+build
+local.properties
+proguard
+*.log
+.navigation
+captures
+*.iml
+.idea
+.externalNativeBuild
