@@ -1,6 +1,6 @@
 {
   "name": "capacitor-apk-updater",
-  "version": "0.0.1",
+  "version": "8.0.2",
   "description": "Capacitor plugin for Android APK self-update",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
